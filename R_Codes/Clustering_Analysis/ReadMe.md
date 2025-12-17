@@ -68,5 +68,5 @@ data.table
 
 ## Author
 
-**Wang E.Y.**
+**Elle Wang**
 
