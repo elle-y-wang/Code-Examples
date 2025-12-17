@@ -89,3 +89,10 @@ Main R packages:
 
 ## License
 Specify an appropriate license before public release.
+
+---
+
+## Author
+
+**Elle Wang**
+
