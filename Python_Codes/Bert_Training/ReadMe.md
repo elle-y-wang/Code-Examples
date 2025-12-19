@@ -73,10 +73,4 @@ Includes:
 ## License
 Add an appropriate license before public release.
 
----
-
-## Author
-
-**Yuheng Wang** and **Elle Wang**
-
 
